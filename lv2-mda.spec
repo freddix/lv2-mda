@@ -1,11 +1,11 @@
 Summary:	LV2 port of MDA plugins
 Name:		lv2-mda
-Version:	1.0.0
+Version:	1.2.0
 Release:	1
 License:	GPL v3
 Group:		Libraries
 Source0:	http://download.drobilla.net/mda-lv2-%{version}.tar.bz2
-# Source0-md5:	843ac4eade386034562917e95905e5d8
+# Source0-md5:	f16e1f2c4b685981a183f58436f41f7f
 BuildRequires:	libstdc++-devel
 BuildRequires:	lv2-devel
 BuildRequires:	pkg-config
